@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.8.0_121"/>
+	<classpathentry kind="lib" path="D:/ESPRIT/Cours/JAVAEE/Maven/jars/commons-codec-1.4.jar"/>
+	<classpathentry kind="lib" path="D:/ESPRIT/Cours/JAVAEE/Maven/jars/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/ESPRIT/Cours/JAVAEE/Maven/jars/httpclient-4.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/ESPRIT/Cours/JAVAEE/Maven/jars/httpcore-4.1.jar"/>
+	<classpathentry kind="lib" path="D:/ESPRIT/Cours/JAVAEE/Maven/jars/json-20160810.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
